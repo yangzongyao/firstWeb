@@ -1,2 +1,0 @@
-# yangzongyao.github.io
-myFirstWeb
